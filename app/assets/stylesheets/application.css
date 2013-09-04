@@ -11,3 +11,27 @@
  *= require_self
  *= require_tree .
  */
+
+
+a:link, a:visited, a:active {
+  color: #5CB3FF;
+  font-size: 20px;
+}
+
+#nav {
+  background-color: #151b54;
+  height: 200px;
+  width: 200px;
+  border: 20px double #5CB3FF;
+  border-radius: 120px;
+  color: #5CB3FF;
+  font-size: 20px;
+  text-align: center;
+  padding: 10px 0 0 0;
+  margin: 0 10px 0 10px;
+  position: absolute;
+  top: 450px;
+  left: 50px;
+}
+
+
