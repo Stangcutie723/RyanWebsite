@@ -1,3 +1,33 @@
-// Place all the styles related to the home controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+#homeheader {
+  text-align: center;
+  border: 15px double #00CCFF;
+  padding: 10px 10px 10px 10px;
+  color:#ffffff;
+  font-size: 45px;
+}
+
+#twit {
+  padding: 10px 10px 10px 10px;
+  margin: 0 20px 0 40px;
+  position: absolute;
+  top: 400px;
+  left: 600px;
+  width: 600px;
+}
+
+#homeslogan {
+  text-align: center;
+  color:#ffffff;
+  font-size: 30px;
+  border: 10px dotted #00CCFF;
+  border-radius: 100%;
+  height: 380px;
+  width: 380px;
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
+
+#rpic {
+  border-radius: 100%;
+}

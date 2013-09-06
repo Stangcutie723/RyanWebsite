@@ -1,35 +1,19 @@
 // Place all the styles related to the contact controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-
-body {
-  background-color: #250517;
-}
-
-#header {
+#contheader {
   text-align: center;
-  border: 15px double #8D38C9;
+  border: 15px double #0dfd05;
   padding: 10px 10px 10px 10px;
-  color:#8D38C9;
+  color:#5efb63;
   font-size: 45px;
 }
-
-#slogan {
-  text-align: center;
-  color:#FBB917;
-  font-size: 30px;
-}
-
-#bhr {
-  height:350px;
-  width:250px;
-  position: absolute;
-  top:450px;
-  right:100px;
-}
-
 #contact {
   text-align: center;
-  color: #8D38C9;
+  color: #0dfd05;
   font-size: 30px;
+  padding: 10px 10px 10px 10px;
+  margin: 0 20px 0 40px;
 }
+
+
